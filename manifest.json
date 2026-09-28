@@ -1,0 +1,355 @@
+{
+    "bundleVersion":  1,
+    "files":  [
+                  {
+                      "path":  "dua.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  25,
+                      "kind":  "dua"
+                  },
+                  {
+                      "path":  "hadith.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  20,
+                      "kind":  "hadith"
+                  },
+                  {
+                      "path":  "adhkar.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  7,
+                      "kind":  "adhkar"
+                  },
+                  {
+                      "path":  "post_prayer.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  5,
+                      "kind":  "post_prayer"
+                  },
+                  {
+                      "path":  "arabic/letters.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  28,
+                      "kind":  "arabic_letters"
+                  },
+                  {
+                      "path":  "arabic/harakat.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  11,
+                      "kind":  "arabic_harakat"
+                  },
+                  {
+                      "path":  "arabic/words.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  37,
+                      "kind":  "arabic_words"
+                  },
+                  {
+                      "path":  "arabic/vocab.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  19,
+                      "kind":  "quran_vocab"
+                  },
+                  {
+                      "path":  "arabic/roots.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  6,
+                      "kind":  "root_words"
+                  },
+                  {
+                      "path":  "arabic/grammar.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  7,
+                      "kind":  "arabic_grammar"
+                  },
+                  {
+                      "path":  "quran/fatiha_words.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  1,
+                      "kind":  "quran_words"
+                  },
+                  {
+                      "path":  "quran/001_fatiha.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  7,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ ফাতিহা"
+                  },
+                  {
+                      "path":  "quran/078_naba.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  40,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ নাবা"
+                  },
+                  {
+                      "path":  "quran/079_naziat.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  46,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ নাযিয়াত"
+                  },
+                  {
+                      "path":  "quran/080_abasa.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  42,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ আবাসা"
+                  },
+                  {
+                      "path":  "quran/081_takwir.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  29,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ তাকভীর"
+                  },
+                  {
+                      "path":  "quran/082_infitar.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  19,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ ইনফিতার"
+                  },
+                  {
+                      "path":  "quran/083_mutaffifin.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  36,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ মুতাফফিফিন"
+                  },
+                  {
+                      "path":  "quran/084_inshiqaq.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  25,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ ইনশিকাক"
+                  },
+                  {
+                      "path":  "quran/085_buruj.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  22,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ বুরুজ"
+                  },
+                  {
+                      "path":  "quran/086_tariq.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  17,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ তারিক"
+                  },
+                  {
+                      "path":  "quran/087_ala.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  19,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ আলা"
+                  },
+                  {
+                      "path":  "quran/088_ghashiyah.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  26,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ গাশিয়াহ"
+                  },
+                  {
+                      "path":  "quran/089_fajr.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  30,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ ফজর"
+                  },
+                  {
+                      "path":  "quran/090_balad.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  20,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ বালাদ"
+                  },
+                  {
+                      "path":  "quran/091_shams.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  15,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ শামস"
+                  },
+                  {
+                      "path":  "quran/092_layl.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  21,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ লাইল"
+                  },
+                  {
+                      "path":  "quran/093_duha.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  11,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ দুহা"
+                  },
+                  {
+                      "path":  "quran/094_sharh.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  8,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ শারহ"
+                  },
+                  {
+                      "path":  "quran/095_tin.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  8,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ তীন"
+                  },
+                  {
+                      "path":  "quran/096_alaq.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  19,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ আলাক"
+                  },
+                  {
+                      "path":  "quran/097_qadr.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  5,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ কদর"
+                  },
+                  {
+                      "path":  "quran/098_bayyinah.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  8,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ বাইয়্যিনাহ"
+                  },
+                  {
+                      "path":  "quran/099_zalzalah.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  8,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ যিলযাল"
+                  },
+                  {
+                      "path":  "quran/100_adiyat.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  11,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ আদিয়াত"
+                  },
+                  {
+                      "path":  "quran/101_qariah.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  11,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ কারিয়া"
+                  },
+                  {
+                      "path":  "quran/102_takathur.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  8,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ তাকাসুর"
+                  },
+                  {
+                      "path":  "quran/103_asr.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  3,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ আসর"
+                  },
+                  {
+                      "path":  "quran/104_humazah.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  9,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ হুমাযাহ"
+                  },
+                  {
+                      "path":  "quran/105_fil.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  5,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ ফিল"
+                  },
+                  {
+                      "path":  "quran/106_quraysh.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  4,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ কুরাইশ"
+                  },
+                  {
+                      "path":  "quran/107_maun.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  7,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ মাউন"
+                  },
+                  {
+                      "path":  "quran/108_kawthar.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  3,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ কাউসার"
+                  },
+                  {
+                      "path":  "quran/109_kafirun.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  6,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ কাফিরুন"
+                  },
+                  {
+                      "path":  "quran/110_nasr.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  3,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ নাসর"
+                  },
+                  {
+                      "path":  "quran/111_masad.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  5,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ লাহাব"
+                  },
+                  {
+                      "path":  "quran/112_ikhlas.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  4,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ ইখলাস"
+                  },
+                  {
+                      "path":  "quran/113_falaq.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  5,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ ফালাক"
+                  },
+                  {
+                      "path":  "quran/114_nas.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  6,
+                      "kind":  "à¦¸à§‚à¦°à¦¾ নাস"
+                  },
+                  {
+                      "path":  "quran/surahs_index.json",
+                      "source":  "islamic_data",
+                      "version":  1,
+                      "count":  38,
+                      "kind":  "à¦¸à§‚à¦°à¦¾-à¦¸à§‚à¦šà¦¿"
+                  }
+              ]
+}

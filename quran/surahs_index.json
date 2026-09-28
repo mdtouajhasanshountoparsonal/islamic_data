@@ -1,0 +1,463 @@
+{
+    "surahs":  [
+                   {
+                       "id":  "fatiha",
+                       "index":  1,
+                       "nameMeaning":  "সূচনা",
+                       "tags":  [
+                                    "প্রতি রাকাতে"
+                                ],
+                       "arabicName":  "الفاتحة",
+                       "name":  "ফাতিহা",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  7
+                   },
+                   {
+                       "id":  "naba",
+                       "index":  78,
+                       "nameMeaning":  "সংবাদ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "النبأ",
+                       "name":  "নাবা",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  40
+                   },
+                   {
+                       "id":  "naziat",
+                       "index":  79,
+                       "nameMeaning":  "প্রাণহরণকারিণী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "النازعات",
+                       "name":  "নাযিয়াত",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  46
+                   },
+                   {
+                       "id":  "abasa",
+                       "index":  80,
+                       "nameMeaning":  "ভ্রুকুটি",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "عبس",
+                       "name":  "আবাসা",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  42
+                   },
+                   {
+                       "id":  "takwir",
+                       "index":  81,
+                       "nameMeaning":  "অন্ধকারাচ্ছন্ন",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "التكوير",
+                       "name":  "তাকভীর",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  29
+                   },
+                   {
+                       "id":  "infitar",
+                       "index":  82,
+                       "nameMeaning":  "বিদীর্ণ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الانفطار",
+                       "name":  "ইনফিতার",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  19
+                   },
+                   {
+                       "id":  "mutaffifin",
+                       "index":  83,
+                       "nameMeaning":  "ওজন-পরিমাণে কমকারী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "المطففين",
+                       "name":  "মুতাফফিফিন",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  36
+                   },
+                   {
+                       "id":  "inshiqaq",
+                       "index":  84,
+                       "nameMeaning":  "বিদীর্ণ হওয়া",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الانشقاق",
+                       "name":  "ইনশিকাক",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  25
+                   },
+                   {
+                       "id":  "buruj",
+                       "index":  85,
+                       "nameMeaning":  "নক্ষত্রপুঞ্জ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "البروج",
+                       "name":  "বুরুজ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  22
+                   },
+                   {
+                       "id":  "tariq",
+                       "index":  86,
+                       "nameMeaning":  "রাত্রির আগন্তুক (নক্ষত্র)",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الطارق",
+                       "name":  "তারিক",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  17
+                   },
+                   {
+                       "id":  "ala",
+                       "index":  87,
+                       "nameMeaning":  "সর্বোচ্চ",
+                       "tags":  [
+                                    "সুবহানাকা রাব্বিয়াল আলা"
+                                ],
+                       "arabicName":  "الأعلى",
+                       "name":  "আলা",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  19
+                   },
+                   {
+                       "id":  "ghashiyah",
+                       "index":  88,
+                       "nameMeaning":  "মোহাবরণকারী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الغاشية",
+                       "name":  "গাশিয়াহ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  26
+                   },
+                   {
+                       "id":  "fajr",
+                       "index":  89,
+                       "nameMeaning":  "প্রভাত",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الفجر",
+                       "name":  "ফজর",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  30
+                   },
+                   {
+                       "id":  "balad",
+                       "index":  90,
+                       "nameMeaning":  "নগর",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "البلد",
+                       "name":  "বালাদ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  20
+                   },
+                   {
+                       "id":  "shams",
+                       "index":  91,
+                       "nameMeaning":  "সূর্য",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الشمس",
+                       "name":  "শামস",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  15
+                   },
+                   {
+                       "id":  "layl",
+                       "index":  92,
+                       "nameMeaning":  "রাত্রি",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الليل",
+                       "name":  "লাইল",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  21
+                   },
+                   {
+                       "id":  "duha",
+                       "index":  93,
+                       "nameMeaning":  "পূর্বাহ্ণ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الضحى",
+                       "name":  "দুহা",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  11
+                   },
+                   {
+                       "id":  "sharh",
+                       "index":  94,
+                       "nameMeaning":  "উন্মুক্তকরণ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الشرح",
+                       "name":  "শারহ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  8
+                   },
+                   {
+                       "id":  "tin",
+                       "index":  95,
+                       "nameMeaning":  "আঞ্জির",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "التين",
+                       "name":  "তীন",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  8
+                   },
+                   {
+                       "id":  "alaq",
+                       "index":  96,
+                       "nameMeaning":  "ঝুলন্ত রক্তপিণ্ড",
+                       "tags":  [
+                                    "প্রথম অবতীর্ণ"
+                                ],
+                       "arabicName":  "العلق",
+                       "name":  "আলাক",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  19
+                   },
+                   {
+                       "id":  "qadr",
+                       "index":  97,
+                       "nameMeaning":  "মর্যাদা/নির্ধারণ",
+                       "tags":  [
+                                    "লাইলাতুল কদর"
+                                ],
+                       "arabicName":  "القدر",
+                       "name":  "কদর",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  5
+                   },
+                   {
+                       "id":  "bayyinah",
+                       "index":  98,
+                       "nameMeaning":  "সুস্পষ্ট প্রমাণ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "البينة",
+                       "name":  "বাইয়্যিনাহ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  8
+                   },
+                   {
+                       "id":  "zalzalah",
+                       "index":  99,
+                       "nameMeaning":  "ভূকম্পন",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الزلزلة",
+                       "name":  "যিলযাল",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  8
+                   },
+                   {
+                       "id":  "adiyat",
+                       "index":  100,
+                       "nameMeaning":  "দৌড়ন্ত ঘোড়া",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "العاديات",
+                       "name":  "আদিয়াত",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  11
+                   },
+                   {
+                       "id":  "qariah",
+                       "index":  101,
+                       "nameMeaning":  "করোঁটনকারী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "القارعة",
+                       "name":  "কারিয়া",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  11
+                   },
+                   {
+                       "id":  "takathur",
+                       "index":  102,
+                       "nameMeaning":  "প্রাচুর্যের প্রতিযোগিতা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "التكاثر",
+                       "name":  "তাকাসুর",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  8
+                   },
+                   {
+                       "id":  "asr",
+                       "index":  103,
+                       "nameMeaning":  "সময়",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "العصر",
+                       "name":  "আসর",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  3
+                   },
+                   {
+                       "id":  "humazah",
+                       "index":  104,
+                       "nameMeaning":  "পরনিন্দাকারী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الهمزة",
+                       "name":  "হুমাযাহ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  9
+                   },
+                   {
+                       "id":  "fil",
+                       "index":  105,
+                       "nameMeaning":  "হাতি",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الفيل",
+                       "name":  "ফিল",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  5
+                   },
+                   {
+                       "id":  "quraysh",
+                       "index":  106,
+                       "nameMeaning":  "কুরাইশ গোত্র",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "قريش",
+                       "name":  "কুরাইশ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  4
+                   },
+                   {
+                       "id":  "maun",
+                       "index":  107,
+                       "nameMeaning":  "গৃহস্থালি সামগ্রী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الماعون",
+                       "name":  "মাউন",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  7
+                   },
+                   {
+                       "id":  "kawthar",
+                       "index":  108,
+                       "nameMeaning":  "প্রাচুর্য",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الكوثر",
+                       "name":  "কাউসার",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  3
+                   },
+                   {
+                       "id":  "kafirun",
+                       "index":  109,
+                       "nameMeaning":  "কাফেরেরা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الكافرون",
+                       "name":  "কাফিরুন",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  6
+                   },
+                   {
+                       "id":  "nasr",
+                       "index":  110,
+                       "nameMeaning":  "সাহায্য",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "النصر",
+                       "name":  "নাসর",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  3
+                   },
+                   {
+                       "id":  "masad",
+                       "index":  111,
+                       "nameMeaning":  "মসদ/উত্তাপ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "المسد",
+                       "name":  "লাহাব",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  5
+                   },
+                   {
+                       "id":  "ikhlas",
+                       "index":  112,
+                       "nameMeaning":  "একনিষ্ঠতা",
+                       "tags":  [
+                                    "কুরআনের এক-তৃতীয়াংশ/মর্যাদা"
+                                ],
+                       "arabicName":  "الإخلاص",
+                       "name":  "ইখলাস",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  4
+                   },
+                   {
+                       "id":  "falaq",
+                       "index":  113,
+                       "nameMeaning":  "প্রভাত",
+                       "tags":  [
+                                    "শেষ ৩ সুরা",
+                                    "রুকয়াহ"
+                                ],
+                       "arabicName":  "الفلق",
+                       "name":  "ফালাক",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  5
+                   },
+                   {
+                       "id":  "nas",
+                       "index":  114,
+                       "nameMeaning":  "মানবজাতি",
+                       "tags":  [
+                                    "শেষ ৩ সুরা",
+                                    "রুকয়াহ"
+                                ],
+                       "arabicName":  "الناس",
+                       "name":  "নাস",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  6
+                   }
+               ],
+    "_template":  null
+}
