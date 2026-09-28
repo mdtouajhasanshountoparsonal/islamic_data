@@ -1,5 +1,5 @@
 {
-    "bundleVersion":  1,
+    "bundleVersion":  2,
     "files":  [
                   {
                       "path":  "dua.json",
@@ -344,12 +344,12 @@
                       "count":  6,
                       "kind":  "à¦¸à§‚à¦°à¦¾ নাস"
                   },
-                  {
-                      "path":  "quran/surahs_index.json",
-                      "source":  "islamic_data",
-                      "version":  1,
-                      "count":  38,
-                      "kind":  "à¦¸à§‚à¦°à¦¾-à¦¸à§‚à¦šà¦¿"
-                  }
+{
+                       "path":  "quran/surahs_index.json",
+                       "source":  "islamic_data",
+                       "version":  2,
+                       "count":  114,
+                       "kind":  "সূরা-সূচি"
+                   }
               ]
 }

@@ -13,6 +13,918 @@
                        "ayahCount":  7
                    },
                    {
+                       "id":  "baqarah",
+                       "index":  2,
+                       "nameMeaning":  "গাভী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "البقرة",
+                       "name":  "বাকারা",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  286
+                   },
+                   {
+                       "id":  "aal-imran",
+                       "index":  3,
+                       "nameMeaning":  "ইমরানের পরিবার",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "آل عمران",
+                       "name":  "আলে-ইমরান",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  200
+                   },
+                   {
+                       "id":  "an-nisa",
+                       "index":  4,
+                       "nameMeaning":  "নারী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "النساء",
+                       "name":  "নিসা",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  176
+                   },
+                   {
+                       "id":  "al-maidah",
+                       "index":  5,
+                       "nameMeaning":  "খাবার টেবিল",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "المائدة",
+                       "name":  "মায়িদাহ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  120
+                   },
+                   {
+                       "id":  "al-anam",
+                       "index":  6,
+                       "nameMeaning":  "গবাদি পশু",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الأنعام",
+                       "name":  "আনআম",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  165
+                   },
+                   {
+                       "id":  "al-araf",
+                       "index":  7,
+                       "nameMeaning":  "উঁচু প্রাচীর",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الأعراف",
+                       "name":  "আরাফ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  206
+                   },
+                   {
+                       "id":  "al-anfal",
+                       "index":  8,
+                       "nameMeaning":  "যুদ্ধলব্ধ সম্পদ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الأنفال",
+                       "name":  "আনফাল",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  75
+                   },
+                   {
+                       "id":  "at-tawbah",
+                       "index":  9,
+                       "nameMeaning":  "অনুতাপ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "التوبة",
+                       "name":  "তাওবাহ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  129
+                   },
+                   {
+                       "id":  "yunus",
+                       "index":  10,
+                       "nameMeaning":  "নবী ইউনুস",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "يونس",
+                       "name":  "ইউনুস",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  109
+                   },
+                   {
+                       "id":  "hud",
+                       "index":  11,
+                       "nameMeaning":  "নবী হুদ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "هود",
+                       "name":  "হুদ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  123
+                   },
+                   {
+                       "id":  "yusuf",
+                       "index":  12,
+                       "nameMeaning":  "নবী ইউসুফ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "يوسف",
+                       "name":  "ইউসুফ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  111
+                   },
+                   {
+                       "id":  "ar-rad",
+                       "index":  13,
+                       "nameMeaning":  "বজ্রপাত",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الرعد",
+                       "name":  "রাদ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  43
+                   },
+                   {
+                       "id":  "ibrahim",
+                       "index":  14,
+                       "nameMeaning":  "নবী ইবরাহিম",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "إبراهيم",
+                       "name":  "ইবরাহিম",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  52
+                   },
+                   {
+                       "id":  "al-hijr",
+                       "index":  15,
+                       "nameMeaning":  "প্রস্তরময় গিরিশৃঙ্গ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الحجر",
+                       "name":  "হিজর",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  99
+                   },
+                   {
+                       "id":  "an-nahl",
+                       "index":  16,
+                       "nameMeaning":  "মৌমাছি",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "النحل",
+                       "name":  "নাহল",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  128
+                   },
+                   {
+                       "id":  "al-isra",
+                       "index":  17,
+                       "nameMeaning":  "রাতের সফর",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الإسراء",
+                       "name":  "ইসরা",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  111
+                   },
+                   {
+                       "id":  "al-kahf",
+                       "index":  18,
+                       "nameMeaning":  "গুহা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الكهف",
+                       "name":  "কাহফ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  110
+                   },
+                   {
+                       "id":  "maryam",
+                       "index":  19,
+                       "nameMeaning":  "মারইয়াম",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "مريم",
+                       "name":  "মারইয়াম",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  98
+                   },
+                   {
+                       "id":  "taha",
+                       "index":  20,
+                       "nameMeaning":  "ত্বা-হা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "طه",
+                       "name":  "ত্বা-হা",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  135
+                   },
+                   {
+                       "id":  "al-anbiya",
+                       "index":  21,
+                       "nameMeaning":  "নবীগণ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الأنبياء",
+                       "name":  "আম্বিয়া",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  112
+                   },
+                   {
+                       "id":  "al-hajj",
+                       "index":  22,
+                       "nameMeaning":  "হজ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الحج",
+                       "name":  "হজ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  78
+                   },
+                   {
+                       "id":  "al-muminun",
+                       "index":  23,
+                       "nameMeaning":  "বিশ্বাসীগণ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "المؤمنون",
+                       "name":  "মুমিনুন",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  118
+                   },
+                   {
+                       "id":  "an-nur",
+                       "index":  24,
+                       "nameMeaning":  "আলো",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "النور",
+                       "name":  "নূর",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  64
+                   },
+                   {
+                       "id":  "al-furqan",
+                       "index":  25,
+                       "nameMeaning":  "মীমাংসাকারী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الفرقان",
+                       "name":  "ফুরকান",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  77
+                   },
+                   {
+                       "id":  "ash-shuara",
+                       "index":  26,
+                       "nameMeaning":  "কবিগণ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الشعراء",
+                       "name":  "শুয়ারা",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  227
+                   },
+                   {
+                       "id":  "an-naml",
+                       "index":  27,
+                       "nameMeaning":  "পিঁপড়া",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "النمل",
+                       "name":  "নামল",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  93
+                   },
+                   {
+                       "id":  "al-qasas",
+                       "index":  28,
+                       "nameMeaning":  "কাহিনি",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "القصص",
+                       "name":  "কাসাস",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  88
+                   },
+                   {
+                       "id":  "al-ankabut",
+                       "index":  29,
+                       "nameMeaning":  "মাকড়সা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "العنكبوت",
+                       "name":  "আনকাবুত",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  69
+                   },
+                   {
+                       "id":  "ar-rum",
+                       "index":  30,
+                       "nameMeaning":  "রোমকরা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الروم",
+                       "name":  "রুম",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  60
+                   },
+                   {
+                       "id":  "luqman",
+                       "index":  31,
+                       "nameMeaning":  "লুকমান",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "لقمان",
+                       "name":  "লুকমান",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  34
+                   },
+                   {
+                       "id":  "as-sajdah",
+                       "index":  32,
+                       "nameMeaning":  "সিজদা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "السجدة",
+                       "name":  "সাজদাহ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  30
+                   },
+                   {
+                       "id":  "al-ahzab",
+                       "index":  33,
+                       "nameMeaning":  "শত্রু বাহিনী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الأحزاب",
+                       "name":  "আহযাব",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  73
+                   },
+                   {
+                       "id":  "saba",
+                       "index":  34,
+                       "nameMeaning":  "সাবা জাতি",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "سبأ",
+                       "name":  "সাবা",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  54
+                   },
+                   {
+                       "id":  "fatir",
+                       "index":  35,
+                       "nameMeaning":  "সৃষ্টিকর্তা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "فاطر",
+                       "name":  "ফাতির",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  45
+                   },
+                   {
+                       "id":  "ya-sin",
+                       "index":  36,
+                       "nameMeaning":  "ইয়াসিন",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "يس",
+                       "name":  "ইয়াসিন",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  83
+                   },
+                   {
+                       "id":  "as-saffat",
+                       "index":  37,
+                       "nameMeaning":  "সারিবদ্ধ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الصافات",
+                       "name":  "সাফফাত",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  182
+                   },
+                   {
+                       "id":  "sad",
+                       "index":  38,
+                       "nameMeaning":  "সাদ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "ص",
+                       "name":  "সাদ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  88
+                   },
+                   {
+                       "id":  "az-zumar",
+                       "index":  39,
+                       "nameMeaning":  "দলবিশেষ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الزمر",
+                       "name":  "যুমার",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  75
+                   },
+                   {
+                       "id":  "ghafir",
+                       "index":  40,
+                       "nameMeaning":  "ক্ষমাশীল",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "غافر",
+                       "name":  "গাফির",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  85
+                   },
+                   {
+                       "id":  "fussilat",
+                       "index":  41,
+                       "nameMeaning":  "বিস্তারিত",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "فصلت",
+                       "name":  "ফুসসিলাত",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  54
+                   },
+                   {
+                       "id":  "ash-shura",
+                       "index":  42,
+                       "nameMeaning":  "পরামর্শ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الشورى",
+                       "name":  "শুরা",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  53
+                   },
+                   {
+                       "id":  "az-zukhruf",
+                       "index":  43,
+                       "nameMeaning":  "সোনা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الزخرف",
+                       "name":  "যুখরুফ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  89
+                   },
+                   {
+                       "id":  "ad-dukhan",
+                       "index":  44,
+                       "nameMeaning":  "ধোঁয়া",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الدخان",
+                       "name":  "দুখান",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  59
+                   },
+                   {
+                       "id":  "al-jathiyah",
+                       "index":  45,
+                       "nameMeaning":  "আনতজানু",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الجاثية",
+                       "name":  "জাসিয়াহ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  37
+                   },
+                   {
+                       "id":  "al-ahqaf",
+                       "index":  46,
+                       "nameMeaning":  "বালিয়াড়ি",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الأحقاف",
+                       "name":  "আহকাফ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  35
+                   },
+                   {
+                       "id":  "muhammad",
+                       "index":  47,
+                       "nameMeaning":  "আল্লাহর রসুল",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "محمد",
+                       "name":  "মুহাম্মদ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  38
+                   },
+                   {
+                       "id":  "al-fath",
+                       "index":  48,
+                       "nameMeaning":  "বিজয়",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الفتح",
+                       "name":  "ফাতহ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  29
+                   },
+                   {
+                       "id":  "al-hujurat",
+                       "index":  49,
+                       "nameMeaning":  "ঘরসমূহ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الحجرات",
+                       "name":  "হুজুরাত",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  18
+                   },
+                   {
+                       "id":  "qaf",
+                       "index":  50,
+                       "nameMeaning":  "ক্বাফ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "ق",
+                       "name":  "ক্বাফ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  45
+                   },
+                   {
+                       "id":  "adh-dhariyat",
+                       "index":  51,
+                       "nameMeaning":  "বিক্ষেপকারী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الذاريات",
+                       "name":  "যারিয়াত",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  60
+                   },
+                   {
+                       "id":  "at-tur",
+                       "index":  52,
+                       "nameMeaning":  "তূর পাহাড়",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الطور",
+                       "name":  "তূর",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  49
+                   },
+                   {
+                       "id":  "an-najm",
+                       "index":  53,
+                       "nameMeaning":  "নক্ষত্র",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "النجم",
+                       "name":  "নাজম",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  62
+                   },
+                   {
+                       "id":  "al-qamar",
+                       "index":  54,
+                       "nameMeaning":  "চাঁদ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "القمر",
+                       "name":  "কামার",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  55
+                   },
+                   {
+                       "id":  "ar-rahman",
+                       "index":  55,
+                       "nameMeaning":  "দয়াময়",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الرحمن",
+                       "name":  "রহমান",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  78
+                   },
+                   {
+                       "id":  "al-waqiah",
+                       "index":  56,
+                       "nameMeaning":  "মহাঘটনা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الواقعة",
+                       "name":  "ওয়াকিয়াহ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  96
+                   },
+                   {
+                       "id":  "al-hadid",
+                       "index":  57,
+                       "nameMeaning":  "লোহা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الحديد",
+                       "name":  "হাদিদ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  29
+                   },
+                   {
+                       "id":  "al-mujadila",
+                       "index":  58,
+                       "nameMeaning":  "বিতর্ককারিণী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "المجادلة",
+                       "name":  "মুজাদিলাহ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  22
+                   },
+                   {
+                       "id":  "al-hashr",
+                       "index":  59,
+                       "nameMeaning":  "সমবেত হওয়া",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الحشر",
+                       "name":  "হাশর",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  24
+                   },
+                   {
+                       "id":  "al-mumtahanah",
+                       "index":  60,
+                       "nameMeaning":  "পরীক্ষাকারিণী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الممتحنة",
+                       "name":  "মুমতাহিনাহ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  13
+                   },
+                   {
+                       "id":  "as-saff",
+                       "index":  61,
+                       "nameMeaning":  "শ্রেণীবদ্ধ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الصف",
+                       "name":  "সাফ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  14
+                   },
+                   {
+                       "id":  "al-jumuah",
+                       "index":  62,
+                       "nameMeaning":  "শুক্রবার",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الجمعة",
+                       "name":  "জুমুআ",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  11
+                   },
+                   {
+                       "id":  "al-munafiqun",
+                       "index":  63,
+                       "nameMeaning":  "কপটচারী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "المنافقون",
+                       "name":  "মুনাফিকুন",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  11
+                   },
+                   {
+                       "id":  "at-taghabun",
+                       "index":  64,
+                       "nameMeaning":  "প্রতারণা",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "التغابن",
+                       "name":  "তাগাবুন",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  18
+                   },
+                   {
+                       "id":  "at-talaq",
+                       "index":  65,
+                       "nameMeaning":  "তালাক",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الطلاق",
+                       "name":  "তালাক",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  12
+                   },
+                   {
+                       "id":  "at-tahrim",
+                       "index":  66,
+                       "nameMeaning":  "নিষিদ্ধকরণ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "التحريم",
+                       "name":  "তাহরিম",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  12
+                   },
+                   {
+                       "id":  "al-mulk",
+                       "index":  67,
+                       "nameMeaning":  "সার্বভৌমত্ব",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الملك",
+                       "name":  "মুলক",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  30
+                   },
+                   {
+                       "id":  "al-qalam",
+                       "index":  68,
+                       "nameMeaning":  "কলম",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "القلم",
+                       "name":  "কালাম",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  52
+                   },
+                   {
+                       "id":  "al-haqqah",
+                       "index":  69,
+                       "nameMeaning":  "অনিবার্য",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الحاقة",
+                       "name":  "হাক্কাহ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  52
+                   },
+                   {
+                       "id":  "al-maarij",
+                       "index":  70,
+                       "nameMeaning":  "ঊর্ধ্বগতির সোপান",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "المعارج",
+                       "name":  "মাআরিজ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  44
+                   },
+                   {
+                       "id":  "nuh",
+                       "index":  71,
+                       "nameMeaning":  "নবী নূহ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "نوح",
+                       "name":  "নূহ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  28
+                   },
+                   {
+                       "id":  "al-jinn",
+                       "index":  72,
+                       "nameMeaning":  "জিন জাতি",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الجن",
+                       "name":  "জিন",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  28
+                   },
+                   {
+                       "id":  "al-muzzammil",
+                       "index":  73,
+                       "nameMeaning":  "বস্ত্রাবৃত",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "المزمل",
+                       "name":  "মুজ্জাম্মিল",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  20
+                   },
+                   {
+                       "id":  "al-muddaththir",
+                       "index":  74,
+                       "nameMeaning":  "আবরণধারী",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "المدثر",
+                       "name":  "মুদ্দাসসির",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  56
+                   },
+                   {
+                       "id":  "al-qiyamah",
+                       "index":  75,
+                       "nameMeaning":  "কিয়ামত",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "القيامة",
+                       "name":  "কিয়ামাহ",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  40
+                   },
+                   {
+                       "id":  "al-insan",
+                       "index":  76,
+                       "nameMeaning":  "মানুষ",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "الإنسان",
+                       "name":  "ইনসান",
+                       "revelation":  "মাদানি",
+                       "ayahCount":  31
+                   },
+                   {
+                       "id":  "al-mursalat",
+                       "index":  77,
+                       "nameMeaning":  "প্রেরিত",
+                       "tags":  [
+
+                                ],
+                       "arabicName":  "المرسلات",
+                       "name":  "মুরসালাত",
+                       "revelation":  "মক্কি",
+                       "ayahCount":  50
+                   },
+                   {
                        "id":  "naba",
                        "index":  78,
                        "nameMeaning":  "সংবাদ",
@@ -458,6 +1370,5 @@
                        "revelation":  "মক্কি",
                        "ayahCount":  6
                    }
-               ],
-    "_template":  null
+               ]
 }
