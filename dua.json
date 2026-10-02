@@ -16,7 +16,8 @@
     "জ্ঞান ও পড়াশোনা",
     "রিজিক ও ঋণ",
     "কুরআনের দোয়া",
-    "দুরুদ ও সালাত"
+    "দুরুদ ও সালাত",
+    "জুমুআর বিশেষ আমল"
   ],
   "duas": [
     {
@@ -666,6 +667,45 @@
       "bangla": "সুবহানা রাব্বিয়াল আ’লা",
       "transliteration": "",
       "source": "সহিহ মুসলিম ৪৭৯, ৪৮৩, ৭৭১ — sunnah.com/muslim:479, sunnah.com/muslim:483, sunnah.com/muslim:771",
+      "authenticity": "sahih",
+      "count": null,
+      "level": 1
+    },
+    {
+      "id": "dua_jummah_surah_kahf",
+      "section": "জুমুআর বিশেষ আমল",
+      "type": "quran",
+      "title": "জুমুআতে সূরা আল-কাহফ",
+      "arabic": "سُورَةُ الْكَهْفِ",
+      "bangla": "জুমুআর দিনে সূরা আল-কাহফ পাঠ করলে পরবর্তী জুমুআ পর্যন্ত আলো থাকবে।",
+      "transliteration": "",
+      "source": "হাসান (আল-বায়হাকী, আল-হাকিম) — islamqa.info, dorar.net",
+      "authenticity": "hasan",
+      "count": null,
+      "level": 1
+    },
+    {
+      "id": "dua_jummah_salawat",
+      "section": "জুমুআর বিশেষ আমল",
+      "type": "durood",
+      "title": "জুমুআতে বেশি বেশি দুরুদ",
+      "arabic": "اَللّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ",
+      "bangla": "জুমুআর দিনে নবীজীর ওপর বেশি বেশি দুরুদ পাঠের নির্দেশ রয়েছে।",
+      "transliteration": "",
+      "source": "সুনান আবু দাউদ ১০৪৭ — sunnah.com/abudawud:1047",
+      "authenticity": "hasan",
+      "count": null,
+      "level": 1
+    },
+    {
+      "id": "dua_jummah_hour",
+      "section": "জুমুআর বিশেষ আমল",
+      "type": "durood",
+      "title": "জুমুআর সাড়া-প্রাপ্তির সময় দোয়া",
+      "arabic": "—",
+      "bangla": "জুমুআর দিনে এমন একটি সময় আছে, যখন আল্লাহর কাছে চাওয়া হলে তিনি তা দান করেন। (সঠিক সময়ের ব্যাপারে মতভেদ আছে — শুধু নীতিগতভাবে উল্লেখযোগ্য)",
+      "transliteration": "",
+      "source": "সহিহ বুখারি ৯৩৫, সহিহ মুসলিম ৮৫২ — sunnah.com/bukhari:935, sunnah.com/muslim:852",
       "authenticity": "sahih",
       "count": null,
       "level": 1
